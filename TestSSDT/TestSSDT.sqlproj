@@ -68,6 +68,7 @@
     <Build Include="dbo\Tables\PMF_MASTER.sql" />
     <Build Include="dbo\Views\PMF_MASTER_VIEW.sql" />
     <Build Include="dbo\Stored Procedures\GetPMFMaster.sql" />
+    <Build Include="dbo\Tables\PMF_MASTER_SUB.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Snapshots\TestSSDT_20260107_08-47-56.dacpac" />
